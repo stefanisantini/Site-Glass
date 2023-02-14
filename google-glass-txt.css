@@ -1,0 +1,31 @@
+@charset "UTF-8";
+<style>
+		body {
+			font-family: arial;
+			font-size: 10pt;
+		}
+		p {
+			text-align: justify;
+			text-indent: 20px;
+		}
+		article h1 {
+			font-size: 15pt;
+			color: #ffffff;
+			background-color: #606060;
+			padding: 5px;
+			margin: 0px;
+		}
+		article h2 {
+			font-size: 13pt;
+			color: #888888;
+			margin: 0px;
+		}
+		article {
+			margin-bottom: 800px;
+		}
+		img.img-dir {
+			display: block;
+			float: right;
+			margin-left: 10px;
+		}
+</style>
